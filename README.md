@@ -4,7 +4,8 @@
 **sptungG/sptungG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h2> Hi, I'm spTungG! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/3ov9jOjo4n7HASUu8U/giphy.gif" width="480" height="480">
+
+<iframe align='right' src="https://giphy.com/embed/3ov9jOjo4n7HASUu8U" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/marvelstudios-3ov9jOjo4n7HASUu8U">via GIPHY</a></p>
 <p><em>I'm currently studying at <a href="https://soict.hust.edu.vn/gioi-thieu">Hanoi University of Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </br>& Learning Front-End Developer at <a href="https://mindx.edu.vn/">MindX School</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>

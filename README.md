@@ -7,19 +7,4 @@
 [![Linkedin: TungSp](https://img.shields.io/badge/-tungsp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tung-sp-a15793203/)](https://www.linkedin.com/in/tung-sp-a15793203/)
 [![GitHub sptungG](https://img.shields.io/github/followers/sptungG?label=follow&style=social)](https://github.com/sptungG)
 
-## i
-### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const tung = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, C/C++],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on JS, HTML & CSS.",
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
+***

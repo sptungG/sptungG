@@ -1,5 +1,5 @@
 <h2> Hi, I'm spTungG! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/3ohhwhTxuB9wWJ87te/giphy.gif" width="30%"/>
+<!-- <div> <img align='right' src="https://media.giphy.com/media/3ohhwhTxuB9wWJ87te/giphy.gif" width="30%"/> </div> -->
 <p><em>I'm currently studying at <a href="https://soict.hust.edu.vn/gioi-thieu">Hanoi University of Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </br>& Learning Front-End Developer at <a href="https://mindx.edu.vn/">MindX School</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -19,7 +19,7 @@
   <img src ="./images/es6.svg" alt="ES6 logo" width="8%" title='ES6'/>
   <img src ="./images/react.svg" alt="react logo" width="8%" title='React'/>
   <img src ="./images/redux.svg" alt="redux logo" width="8%" title='Redux'/>
-<div>
+</div>
   
 ### Backend Technologies
 

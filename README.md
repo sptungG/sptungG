@@ -5,6 +5,7 @@
 </em></p>
 
 [![Linkedin: TungSp](https://img.shields.io/badge/-tungsp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tung-sp-a15793203/)](https://www.linkedin.com/in/tung-sp-a15793203/)
-[![GitHub sptungG](https://img.shields.io/github/followers/sptungG?label=follow&style=social)](https://github.com/sptungG)
+
+[![GitHub: sptungG](https://img.shields.io/github/followers/sptungG?label=follow&style=social)](https://github.com/sptungG)
 
 ***

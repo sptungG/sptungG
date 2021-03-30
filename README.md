@@ -28,13 +28,13 @@
   <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
   <img src ="./images/mysql.svg" alt="mysql logo" width="8%" title='MYSQL'/>
   <img src ="./images/microsoft-sql-server.svg" alt="sql server logo" width="8%" title='SQL server'/>
-  <img src ="./images/firebase.svg" alt="firebase logo" width="8%" title='Firebase'/>
+  <img src ="./images/firebase.svg" alt="firebase logo" width="6%" title='Firebase'/>
 </div>
 
 ### Tools
 
 <div>
-  <img src ="./images/figma.svg" alt="Figma logo" width="7%" title='Figma'/>
+  <img src ="./images/figma.svg" alt="Figma logo" width="6%" title='Figma'/>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="8%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/>
 </div>

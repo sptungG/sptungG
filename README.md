@@ -20,6 +20,15 @@
   <img src ="./images/react.svg" alt="react logo" width="8%" title='React'/>
   <img src ="./images/redux.svg" alt="redux logo" width="8%" title='Redux'/>
 <div>
+  
+### Backend Technologies
+
+<div>
+  <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
+  <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
+  <img src ="./images/mysql.svg" alt="mysql logo" width="8%" title='MYSQL'/>
+  <img src ="./images/microsoft-sql-server.svg" alt="sql server logo" width="8%" title='SQL server'/>
+</div>
 
 ### Tools
 

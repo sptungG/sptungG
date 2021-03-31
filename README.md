@@ -1,5 +1,7 @@
 <h2> Hi, I'm spTungG! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<!-- <div> <img align='right' src="https://media.giphy.com/media/3ohhwhTxuB9wWJ87te/giphy.gif" width="30%"/> </div> -->
+<div> 
+  <img align='right' src="https://media.giphy.com/media/3ohhwhTxuB9wWJ87te/giphy.gif" width="28%"/> 
+</div>
 <p><em>I'm currently studying at <a href="https://soict.hust.edu.vn/gioi-thieu">Hanoi University of Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </br>& Learning Front-End Developer at <a href="https://mindx.edu.vn/">MindX School</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -35,5 +37,5 @@
 <div>
   <img src ="./images/figma.svg" alt="Figma logo" width="6%" title='Figma'/>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="8%" title='Visual Studio Code'/>
-  <img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/>
+  <img src ="./images/git.svg" alt="Git logo" width="10%" title='Git'/>
 </div>

@@ -35,7 +35,7 @@
 ### Tools
 
 <div>
-  <img src ="./images/figma.svg" alt="Figma logo" width="6%" title='Figma'/>
-  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="8%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git logo" width="10%" title='Git'/>
+  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="8%" title='Visual Studio Code'/>
+  <img src ="./images/figma.svg" alt="Figma logo" width="6%" title='Figma'/>
 </div>

@@ -13,29 +13,29 @@
 ### Frontend Technologies
 
 <div>
-  <img src ="./images/html-5.svg" alt="HTML5 logo" width="6%" title='HTML5'/>
-  <img src ="./images/css-3.svg" alt="CSS3 logo" width="6%" title='CSS3'/>
-  <img src ="./images/sass.svg" alt="Sass logo" width="8%" title='Sass'/>
-  <img src ="./images/javascript.svg" alt="JavaScript logo" width="8%" title='JavaScript'/>
-  <img src ="./images/es6.svg" alt="ES6 logo" width="8%" title='ES6'/>
-  <img src ="./images/react.svg" alt="react logo" width="8%" title='React'/>
-  <img src ="./images/redux.svg" alt="redux logo" width="8%" title='Redux'/>
+  <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
+  <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
+  <img src ="./images/sass.svg" alt="Sass logo" width="4%" title='Sass'/>
+  <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
+  <img src ="./images/es6.svg" alt="ES6 logo" width="4%" title='ES6'/>
+  <img src ="./images/react.svg" alt="react logo" width="4%" title='React'/>
+  <img src ="./images/redux.svg" alt="redux logo" width="4%" title='Redux'/>
 </div>
   
 ### Backend Technologies
 
 <div>
-  <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
-  <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
-  <img src ="./images/mysql.svg" alt="mysql logo" width="8%" title='MYSQL'/>
-  <img src ="./images/microsoft-sql-server.svg" alt="sql server logo" width="8%" title='SQL server'/>
-  <img src ="./images/firebase.svg" alt="firebase logo" width="6%" title='Firebase'/>
+  <img src ="./images/nodejs.svg" alt="Node logo" width="4%" title='Nodejs'/>
+  <img src ="./images/mongodb.svg" alt="D3 logo" width="4%" title='MongoDB'/>
+  <img src ="./images/mysql.svg" alt="mysql logo" width="4%" title='MYSQL'/>
+  <img src ="./images/microsoft-sql-server.svg" alt="sql server logo" width="4%" title='SQL server'/>
+  <img src ="./images/firebase.svg" alt="firebase logo" width="3%" title='Firebase'/>
 </div>
 
 ### Tools
 
 <div>
-  <img src ="./images/git.svg" alt="Git logo" width="10%" title='Git'/>
-  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="8%" title='Visual Studio Code'/>
-  <img src ="./images/figma.svg" alt="Figma logo" width="6%" title='Figma'/>
+  <img src ="./images/git.svg" alt="Git logo" width="5%" title='Git'/>
+  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="4%" title='Visual Studio Code'/>
+  <img src ="./images/figma.svg" alt="Figma logo" width="3%" title='Figma'/>
 </div>

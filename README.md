@@ -1,4 +1,4 @@
-<h2> Hi, I'm spTungG! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Tung! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <div> 
 <!--   <img align='right' src="https://media.giphy.com/media/3ohhwhTxuB9wWJ87te/giphy.gif" width="28%"/>  -->
 </div>

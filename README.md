@@ -6,7 +6,7 @@
 </br>& Learning Front-End Developer at <a href="https://mindx.edu.vn/">MindX School</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> C4EJS-CIJS-... 
 </em></p>
 
-[![Linkedin: TungSp](https://img.shields.io/badge/-tungsp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tung-sp-a15793203/)](https://www.linkedin.com/in/tung-sp-a15793203/)
+[![Linkedin: TungNV](https://img.shields.io/badge/-tungsp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tung-nv/)](https://www.linkedin.com/in/tung-nv/)
 [![GitHub: sptungG](https://img.shields.io/github/followers/sptungG?label=follow&style=social)](https://github.com/sptungG)
 
 ***

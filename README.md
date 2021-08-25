@@ -41,6 +41,6 @@
 
 ###
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=sptungG&&show_icons=true&title_color=00adb5&icon_color=00adb5&text_color=eeeeee&bg_color=393e46&count_private=true)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=sptungG&&show_icons=true&theme=onedark&title_color=00adb5&icon_color=00adb5&text_color=eeeeee&bg_color=393e46&count_private=true)
 
 <!-- <a href="https://app.daily.dev/sptungg"><img src="https://api.daily.dev/devcards/8dbd0454f9fa49d69ead725945bc8f35.png?r=hzj" width="400" alt="Tung Viet's Dev Card"/></a> -->

@@ -38,7 +38,7 @@
 </div>
 
 ###
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sptungG&&show_icons=true&title_color=00adb5&icon_color=00adb5&text_color=eeeeee&bg_color=151515&count_private=true" />
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sptungG&&show_icons=true&title_color=00adb5&icon_color=00adb5&text_color=eeeeee&bg_color=151515&count_private=true" />
 </div)
 

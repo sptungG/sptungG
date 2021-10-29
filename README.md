@@ -46,7 +46,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/MicrosoftSQLserver-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=ebebeb" height="24" />&nbsp
 </p>
 
 <p align="center">

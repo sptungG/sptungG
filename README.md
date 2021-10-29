@@ -73,7 +73,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=Amazon%20AWS&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode%20AWS&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ebebeb" height="24" />&nbsp
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=ebebeb" height="24" />
 </p>
 

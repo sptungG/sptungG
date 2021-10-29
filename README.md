@@ -104,7 +104,7 @@
   <a href="https://github.com/sptungG/sptungG-blog">sptungG blog</a>
 </p>
 
-h3 align="center">Template</h3>
+<h3 align="center">Template</h3>
 
 <p align="center">
   <a href="https://github.com/sptungG/mogo-template">Mogo template</a>

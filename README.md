@@ -1,14 +1,14 @@
-<h2 align="center"> Hi, I'm Tung! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1 align="center"> Hi, I'm Tung! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<p align="center"><em>I'm currently studying at <a href="https://soict.hust.edu.vn/gioi-thieu">Hanoi University of Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> (Junior)
-</br>& Learning Front-End Developer at <a href="https://mindx.edu.vn/">MindX School</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> C4EJS-CIJS-... 
-</em></p>
 <p align="center">
-[![Linkedin: TungNV](https://img.shields.io/badge/-tungsp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tung-nv/)](https://www.linkedin.com/in/tung-nv/)
-[![GitHub: sptungG](https://img.shields.io/github/followers/sptungG?label=follow&style=social)](https://github.com/sptungG)
+  <em>I'm currently studying at <a href="https://soict.hust.edu.vn/gioi-thieu">Hanoi University of Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> (Junior)
+  </br>& Learning Front-End Developer at <a href="https://mindx.edu.vn/">MindX School</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> C4EJS-CIJS-Web
+  </em>
 </p>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sptungG&&show_icons=true&title_color=00adb5&icon_color=00adb5&text_color=eeeeee&bg_color=151515&count_private=true" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sptungG&&show_icons=true&title_color=00adb5&icon_color=00adb5&text_color=eeeeee&bg_color=151515&count_private=true" />
+  <br/><br/>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsptungG&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits%F0%9F%91%8B&edge_flat=false"/>
 </p>
 

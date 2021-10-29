@@ -41,21 +41,21 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/Spring-339933?style=flat-square&logo=Spring&logoColor=ebebeb" height="24" />
+  <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />
 </p>
   
 <h3 align="center">Back-End</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/Express-323330?style=flat-square&logo=Express&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=ebebeb" height="24" /> 
+  <img src="https://img.shields.io/badge/Spring-339933?style=flat-square&logo=Spring&logoColor=ebebeb" height="24" />&nbsp
+<!--   <img src="https://img.shields.io/badge/Express-323330?style=flat-square&logo=Express&logoColor=ebebeb" height="24" />&nbsp -->
+<!--   <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=ebebeb" height="24" />  -->
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flask-232323?style=flat-square&logo=Flask&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=ebebeb" height="24" />
+<!--   <img src="https://img.shields.io/badge/Flask-232323?style=flat-square&logo=Flask&logoColor=ebebeb" height="24" />&nbsp -->
+<!--   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=ebebeb" height="24" /> -->
 </p>
 
 <p align="center">

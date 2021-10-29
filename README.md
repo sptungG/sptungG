@@ -84,14 +84,31 @@
 
 <br />
 
+<h1 align="center">📄 Main Projects 📄</h1>
+
+<h3 align="center">Full-Stack</h3>
+
 <p align="center">
-  😭 I don't have enough time,
+  <a href="https://github.com/sptungG/CI65-Fairy-Tales">Fairy Tales</a>
   <br />
-  but learning is so much fun! 👍
+  <br />
+  <a href="https://github.com/sptungG/sptungG-blog">sptungG blog</a>
 </p>
 
-<br />
+<h3 align="center">Vanilla Javascript</h3>
 
+<p align="center">
+  <a href="https://github.com/sptungG/sptungG.github.io">FineDish</a>  
+  <br />
+  <br />
+  <a href="https://github.com/sptungG/sptungG-blog">sptungG blog</a>
+</p>
+
+h3 align="center">Template</h3>
+
+<p align="center">
+  <a href="https://github.com/sptungG/mogo-template">Mogo template</a>
+</p>
 
 
 <p align="center">

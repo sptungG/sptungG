@@ -74,8 +74,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ebebeb" height="24" />
+<!--   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=ebebeb" height="24" />&nbsp -->
+<!--   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ebebeb" height="24" /> -->
 </p>
 
 <p align="center">

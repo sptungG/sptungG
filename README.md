@@ -55,6 +55,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ebebeb" height="24" />&nbsp
   <img src="https://img.shields.io/badge/Firebase-049ae6?style=flat-square&logo=Firebase&logoColor=ffca28" height="24" />
 </p>
 
@@ -68,7 +69,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=ebebeb" height="24" />
 </p>
 
 

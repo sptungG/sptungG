@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>I'm currently studying at <a href="https://soict.hust.edu.vn/gioi-thieu">Hanoi University of Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> (Junior)
-  </br>& Learning Front-End Developer at <a href="https://mindx.edu.vn/">MindX School</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> C4EJS-CIJS-Web
+  </br>& Learning Front-End Developer at <a href="https://mindx.edu.vn/">MindX School</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> C4EJS-CIJS-Web-...
   </em>
 </p>
 

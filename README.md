@@ -31,10 +31,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=ebebeb" height="24" />&nbsp
   <img src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=Sass&logoColor=ebebeb" height="24" />&nbsp
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ebebeb" height="24" />&nbsp
-</p>
   
 <h3 align="center">Back-End</h3>
 

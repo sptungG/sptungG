@@ -37,7 +37,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Gulp-cf4647?style=flat-square&logo=Gulp&logoColor=ebebeb" height="24" />&nbsp 
 <!--   <img src="https://img.shields.io/badge/Webpack-1d78c1?style=flat-square&logo=Webpack&logoColor=ebebeb" height="24" />&nbsp  -->
-  <img src="https://img.shields.io/badge/Babel-f7d100?style=flat-square&logo=Babel&logoColor=black" height="24" />
+<!--   <img src="https://img.shields.io/badge/Babel-f7d100?style=flat-square&logo=Babel&logoColor=black" height="24" /> -->
 </p>
 
 <p align="center">
@@ -73,6 +73,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=Amazon%20AWS&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode%20AWS&logoColor=ebebeb" height="24" />&nbsp
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=ebebeb" height="24" />
 </p>
 
@@ -89,7 +90,7 @@
 
 <p align="center">
 <!--   <img src="https://img.shields.io/badge/Nest.js-e02342?style=flat-square&logo=NestJS&logoColor=ebebeb" height="24" /> -->
-  <img src="https://img.shields.io/badge/React Native-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />
+<!--   <img src="https://img.shields.io/badge/React Native-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" /> -->
 </p>
 
 <p align="center">

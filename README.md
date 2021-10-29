@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sptungG&&show_icons=true&title_color=00adb5&icon_color=00adb5&text_color=eeeeee&bg_color=151515&count_private=true" />
   <br/><br/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsptungG&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits%F0%9F%91%8B&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsptungG&count_bg=%2357DBDA&title_bg=%23555555&icon=github.svg&icon_color=%23DDDDDD&title=+visits%F0%9F%91%8B&edge_flat=false"/>
 </p>
 
 

@@ -69,7 +69,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=ebebeb" height="24" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-323330?style=flat-square&logo=adobephotoshop&logoColor=007ACC" height="24" />
 </p>
 
 

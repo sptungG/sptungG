@@ -92,6 +92,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tailwind CSS-38b2ac?style=flat-square&logo=Tailwind%20CSS&logoColor=ebebeb" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=Bootstrap&logoColor=ebebeb" height="24" />
 </p>
 
 <br />

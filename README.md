@@ -59,7 +59,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ebebeb" height="24" />&nbsp
   <img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=ebebeb" height="24" />&nbsp
-    <img src="https://img.shields.io/badge/Git-#05032?style=flat-square&logo=git&logoColor=ebebeb" height="24" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ebebeb" height="24" />
 </p>
 
 <br />

@@ -42,7 +42,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/Spring-61abcb?style=flat-square&logo=Spring&logoColor=ebebeb" height="24" />
+  <img src="https://img.shields.io/badge/Spring-339933?style=flat-square&logo=Spring&logoColor=ebebeb" height="24" />
 </p>
   
 <h3 align="center">Back-End</h3>

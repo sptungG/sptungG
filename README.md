@@ -59,8 +59,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ebebeb" height="24" />&nbsp
   <img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=ebebeb" height="24" />&nbsp
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ebebeb" height="24" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ebebeb" height="24" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=ebebeb" height="24" />&nbsp
+</p>
+
 
 <br />
 
@@ -111,16 +117,13 @@
 
 <p align="center">
 <!--   <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" /> -->
-
+  
 <!--   <img src="https://img.shields.io/badge/Webpack-1d78c1?style=flat-square&logo=Webpack&logoColor=ebebeb" height="24" />&nbsp  -->
 <!--   <img src="https://img.shields.io/badge/Babel-f7d100?style=flat-square&logo=Babel&logoColor=black" height="24" /> -->
 <!--   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=ebebeb" height="24" />&nbsp  -->
   
 <!--   <img src="https://img.shields.io/badge/Express-323330?style=flat-square&logo=Express&logoColor=ebebeb" height="24" />&nbsp -->
 <!--   <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=ebebeb" height="24" />  -->
-  
-<!--   <img src="https://img.shields.io/badge/Flask-232323?style=flat-square&logo=Flask&logoColor=ebebeb" height="24" />&nbsp -->
-<!--   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=ebebeb" height="24" /> -->
   
 <!--   <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux&logoColor=ebebeb" height="24" />&nbsp -->
 <!--   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=ebebeb" height="24" />&nbsp -->

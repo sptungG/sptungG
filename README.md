@@ -99,9 +99,6 @@
 
 <p align="center">
   <a href="https://github.com/sptungG/sptungG.github.io">FineDish</a>  
-  <br />
-  <br />
-  <a href="https://github.com/sptungG/sptungG-blog">sptungG blog</a>
 </p>
 
 <h3 align="center">Template</h3>

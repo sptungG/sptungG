@@ -31,6 +31,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=ebebeb" height="24" />&nbsp
   <img src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=Sass&logoColor=ebebeb" height="24" />&nbsp
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gulp-cf4647?style=flat-square&logo=Gulp&logoColor=ebebeb" height="24" />&nbsp 
+  <img src="https://img.shields.io/badge/Pug-a86454?style=flat-square&logo=Pug&logoColor=ebebeb" height="24" /> 
+</p>
   
 <h3 align="center">Back-End</h3>
 
@@ -106,9 +111,7 @@
 
 <p align="center">
 <!--   <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" /> -->
-  
-<!--   <img src="https://img.shields.io/badge/Gulp-cf4647?style=flat-square&logo=Gulp&logoColor=ebebeb" height="24" />&nbsp  -->
-<!--   <img src="https://img.shields.io/badge/Pug-a86454?style=flat-square&logo=Pug&logoColor=ebebeb" height="24" />  -->
+
 <!--   <img src="https://img.shields.io/badge/Webpack-1d78c1?style=flat-square&logo=Webpack&logoColor=ebebeb" height="24" />&nbsp  -->
 <!--   <img src="https://img.shields.io/badge/Babel-f7d100?style=flat-square&logo=Babel&logoColor=black" height="24" /> -->
 <!--   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=ebebeb" height="24" />&nbsp  -->

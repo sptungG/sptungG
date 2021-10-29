@@ -63,7 +63,9 @@
 
 <br />
 
-<h3 align="center">I'm interested now...</h3>
+<h1 align="center">👀 What am I focused on... 👀</h1>
+
+<h3 align="center">New Stack & To learn more ✏</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />&nbsp

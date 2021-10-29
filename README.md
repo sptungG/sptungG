@@ -6,6 +6,10 @@
   </em>
 </p>
 
+<h3 align="center">Always Record.</h3>
+
+<br />
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sptungG&theme=react&hide=issues&count_private=true" />
   <br/><br/>

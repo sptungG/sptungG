@@ -79,18 +79,15 @@
 <h3 align="center">I'm interested now...</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux&logoColor=ebebeb" height="24" />&nbsp
+<!--   <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux&logoColor=ebebeb" height="24" />&nbsp -->
+<!--   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=ebebeb" height="24" />&nbsp -->
+  <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />
+  <img src="https://img.shields.io/badge/Spring-339933?style=flat-square&logo=Spring&logoColor=ebebeb" height="24" />&nbsp
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Angular-dd0031?style=flat-square&logo=Angular&logoColor=ebebeb" height="24" />&nbsp
+<!--   <img src="https://img.shields.io/badge/Nest.js-e02342?style=flat-square&logo=NestJS&logoColor=ebebeb" height="24" /> -->
   <img src="https://img.shields.io/badge/React Native-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Jest-c21325?style=flat-square&logo=Jest&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/Nest.js-e02342?style=flat-square&logo=NestJS&logoColor=ebebeb" height="24" />
 </p>
 
 <p align="center">
@@ -99,8 +96,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GraphQL-e10098?style=flat-square&logo=GraphQL&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/Apollo-311c87?style=flat-square&logo=Apollo%20GraphQL&logoColor=ebebeb" height="24" />
+<!--   <img src="https://img.shields.io/badge/GraphQL-e10098?style=flat-square&logo=GraphQL&logoColor=ebebeb" height="24" />&nbsp -->
+<!--   <img src="https://img.shields.io/badge/Apollo-311c87?style=flat-square&logo=Apollo%20GraphQL&logoColor=ebebeb" height="24" /> -->
 </p>
 
 <br />

@@ -106,7 +106,7 @@
   <a href="https://github.com/sptungG/CI65-Fairy-Tales">Fairy Tales</a>
   <br />
   <br />
-  <a href="https://github.com/sptungG/sptungG-blog">sptungG blog</a>
+  <a href="https://github.com/sptungG/sp-blog">sp-Blog</a>
 </p>
 
 <h3 align="center">Vanilla Javascript</h3>

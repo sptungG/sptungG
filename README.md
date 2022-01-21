@@ -103,8 +103,9 @@
 <h3 align="center">Full-Stack</h3>
 
 <p align="center">
-  <a href="https://github.com/sptungG/CI65-Fairy-Tales">Fairy Tales</a>
+  <a href="https://github.com/sptungG/SetUpStore">SetupStore</a>
   <br />
+  <a href="https://github.com/sptungG/CI65-Fairy-Tales">Fairy Tales</a>
   <br />
   <a href="https://github.com/sptungG/sp-blog">sp-Blog</a>
 </p>

@@ -38,8 +38,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Gulp-cf4647?style=flat-square&logo=Gulp&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/Pug-a86454?style=flat-square&logo=Pug&logoColor=ebebeb" height="24" /> 
+  <img src="https://img.shields.io/badge/Pug-a86454?style=flat-square&logo=Pug&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=ebebeb" height="24" />
 </p>
   
 <h3 align="center">Back-End</h3>

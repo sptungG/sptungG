@@ -129,7 +129,7 @@
 
 
 <p align="center">
-  <!--   <img src="https://img.shields.io/badge/Spring-339933?style=flat-square&logo=Spring&logoColor=ebebeb" height="24" />&nbsp -->
+<!--   <img src="https://img.shields.io/badge/Spring-339933?style=flat-square&logo=Spring&logoColor=ebebeb" height="24" />&nbsp -->
 <!--   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=ebebeb" height="24" /> -->
     
 <!--   <img src="https://img.shields.io/badge/Webpack-1d78c1?style=flat-square&logo=Webpack&logoColor=ebebeb" height="24" />&nbsp  -->
@@ -138,7 +138,7 @@
 <!--   <img src="https://img.shields.io/badge/Apollo-311c87?style=flat-square&logo=Apollo%20GraphQL&logoColor=ebebeb" height="24" /> -->
   
 <!--   <img src="https://img.shields.io/badge/Nest.js-e02342?style=flat-square&logo=NestJS&logoColor=ebebeb" height="24" /> -->
-<!--   <img src="https://img.shields.io/badge/React Native-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" /> -->
+<!--   <img src="https://img.shields.io/badge/React%20Native-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" /> -->
   
 <!--   <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=Bootstrap&logoColor=ebebeb" height="24" /> -->
 </p>

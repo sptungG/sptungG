@@ -1,4 +1,8 @@
-<h1 align="center"> Hi, I'm Tung! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">  I'm Tung! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%2336BCF7&lines=Hi,%20I'm%20Tung)](https://git.io/typing-svg)  
+
+<h3 align="center">Always Record.</h3>
 
 <p align="center">
   <em>I'm currently studying at <a href="https://soict.hust.edu.vn/gioi-thieu">Hanoi University of Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> (Junior)
@@ -14,8 +18,6 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsptungG%2Fhit-counter&count_bg=%2357DBDA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits+%F0%9F%91%8B&edge_flat=false"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%2336BCF7&lines=I'm%20NAP%20-%20A%20frontend%20developer)](https://git.io/typing-svg)  
-<h3 align="center">Always Record.</h3>
 
 <h1 align="center">📚 Stack 📚</h1>
 

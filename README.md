@@ -5,8 +5,6 @@
   </br>& Learning Front-End Developer at <a href="https://mindx.edu.vn/">MindX School</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> C4EJS-CIJS-Web-...
   </em>
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%2336BCF7&lines=I'm%20NAP%20-%20A%20frontend%20developer)](https://git.io/typing-svg)  
-<h3 align="center">Always Record.</h3>
 
 <br />
 
@@ -16,6 +14,8 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsptungG%2Fhit-counter&count_bg=%2357DBDA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits+%F0%9F%91%8B&edge_flat=false"/>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%2336BCF7&lines=I'm%20NAP%20-%20A%20frontend%20developer)](https://git.io/typing-svg)  
+<h3 align="center">Always Record.</h3>
 
 <h1 align="center">📚 Stack 📚</h1>
 

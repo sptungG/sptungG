@@ -114,13 +114,12 @@
   <br />
   <a href="https://github.com/sptungG/CI65-Fairy-Tales">Fairy Tales</a>
   <br />
-  <a href="https://github.com/sptungG/sp-blog">sp-Blog</a>
 </p>
 
 <h3 align="center">Vanilla Javascript</h3>
 
 <p align="center">
-  <a href="https://github.com/sptungG/sptungG.github.io">FineDish</a>  
+   <a href="https://github.com/sptungG/sp-blog">sp-Blog</a> 
 </p>
 
 <h3 align="center">Template</h3>

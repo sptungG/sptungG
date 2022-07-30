@@ -34,18 +34,22 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-f06529?style=flat-square&logo=HTML5&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=ebebeb" height="24" />&nbsp
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=Sass&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=ebebeb" height="24" />&nbsp
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Gulp-cf4647?style=flat-square&logo=Gulp&logoColor=ebebeb" height="24" />&nbsp
   <img src="https://img.shields.io/badge/Pug-a86454?style=flat-square&logo=Pug&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=ebebeb" height="24" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=Sass&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=ebebeb" height="24" />&nbsp
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=ebebeb" height="24" />
 </p>
   
 <h3 align="center">Back-End</h3>

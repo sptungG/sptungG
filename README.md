@@ -61,7 +61,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=ebebeb" height="24" />&nbsp
 </p>
 
 <p align="center">
@@ -73,8 +73,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=ebebeb" height="24" />&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ebebeb" height="24" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=DataGrip&logoColor=ebebeb" height="24" />&nbsp
 </p>
 
 <p align="center">

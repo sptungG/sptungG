@@ -3,7 +3,7 @@
 <h3 align="center">Always Record.</h3>
 
 <p align="center">
-  <em>Global ICT <a href="https://soict.hust.edu.vn/gioi-thieu">Hanoi University of Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">  (09/2018 - 08/2023)
+  <em>Global ICT <a href="https://soict.hust.edu.vn/gioi-thieu">Hanoi University of Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">  (09/2018 - 09/2023)
   </em>
 </p>
 

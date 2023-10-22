@@ -113,7 +113,8 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ebebeb" height="24" />&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=ebebeb" height="24" />&nbsp
 <!--   <img src="https://img.shields.io/badge/Nest.js-e02342?style=flat-square&logo=NestJS&logoColor=ebebeb" height="24" />&nbsp -->
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=ebebeb" height="24" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=ebebeb" height="24" />
 </p>
 
 <p align="center">

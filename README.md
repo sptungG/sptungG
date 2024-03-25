@@ -125,6 +125,7 @@
 
 <br />
 
+<!--  
 <h1 align="center">📄 Main Projects 📄</h1>
 
 <h3 align="center">Full-Stack</h3>
@@ -149,6 +150,7 @@
 <p align="center">
   <a href="https://github.com/sptungG/mogo-template">Mogo template</a>
 </p>
+-->
 
 
 <p align="center">

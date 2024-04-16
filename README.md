@@ -31,7 +31,6 @@
     <img src="https://img.shields.io/badge/React%20Map%20GL-396CB2?style=flat-square&logo=maplibre&logoColor=fff" height="24" />&nbsp
    </div>
    <div align="left">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=fff" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Firebase-049ae6?style=flat-square&logo=Firebase&logoColor=ffca28" height="24" />&nbsp
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Express-323330?style=flat-square&logo=Express&logoColor=ebebeb" height="24" />&nbsp
@@ -55,8 +54,6 @@
    <div align="left">
     <img src="https://img.shields.io/badge/React%20Three%20Fiber-000?style=flat-square&logo=threedotjs&logoColor=fff" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=fff" height="24" />&nbsp
-    <br>
-    <br>
    </div>   
   </td>
  </tr>

@@ -80,7 +80,7 @@
   </div>
   </td>
   <td>
-  <h4>Yootek - Company Page</h4>
+  <h4>Yootek - Company Website</h4>
   <div align="left">
     <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=fff" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=fff" height="24" />&nbsp

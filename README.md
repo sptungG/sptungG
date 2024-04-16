@@ -117,7 +117,6 @@
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ebebeb" height="24" />
-    <br>
   </div>
   </td>
  </tr>
@@ -153,8 +152,6 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff" height="24" />&nbsp
     <img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=CSS3&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Swiper-2496ED?style=flat-square&logo=Swiper&logoColor=ebebeb" height="24" />
-    <br>
-    <br>
   </div>
   </td>
  </tr>

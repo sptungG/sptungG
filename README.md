@@ -50,12 +50,14 @@
     <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Emotion%20Styled-DB7093?style=flat-square&logo=emotion&logoColor=fff" height="24" />&nbsp
-    <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=fff" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Zustand-000?style=flat-square&logo=lazarus&logoColor=fff" height="24" />&nbsp
-    <br>
-    <br>
-    <br>
    </div>
+   <div align="left">
+    <img src="https://img.shields.io/badge/React%20Three%20Fiber-000?style=flat-square&logo=threedotjs&logoColor=fff" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=fff" height="24" />&nbsp
+    <br>
+    <br>
+   </div>   
   </td>
  </tr>
   <tr>

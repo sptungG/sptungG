@@ -183,18 +183,19 @@
     <table>
       <tr>
       <td>
-        <a href="https://github.com/sptungG/SetupStore-v2" target="_blank">
          <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713255300/_demo/setupstore-v2/429a918f-9e93-4f8f-8995-7bdaf9921c5e.png">
-        </a>
       </td>
       <td>
-        <a href="https://github.com/sptungG/CI65-Fairy-Tales" target="_blank">
          <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713257298/_demo/fairy-story/20b45a8d-1b8c-4ee4-a6e2-5edacbfa0b10.png">
-        </a>
       </td>
      </tr>
      <tr>
       <td>
+      <div align="left">
+        <span>Links:</span>&nbsp;
+        <a href="https://setup-store-v2.vercel.app/" target="_blank">Web</a>&nbsp;
+        <a href="https://github.com/sptungG/SetupStore-v2" target="_blank">Repo</a>
+      </div>
       <h4>Set-Up Store - E-commerce project on desk setups, optimizing workspace</h4>
        <div align="left">        
         <img src="https://img.shields.io/badge/CRA-09D3AC?style=flat-square&logo=createreactapp&logoColor=ebebeb" height="24" />&nbsp
@@ -213,13 +214,17 @@
       </div>
       </td>
       <td>
+       <div align="left">
+        <span>Links:</span>&nbsp;
+        <a href="https://ci65-fairy-tales.vercel.app/" target="_blank">Web</a>&nbsp;
+        <a href="https://github.com/sptungG/CI65-Fairy-Tales" target="_blank">Repo</a>
+      </div>
       <h4>Fairy Tales Reader - Story reader with listening and reading like a real book</h4>
       <div align="left">
         <img src="https://img.shields.io/badge/Vanilla%20Javascript-323330?style=flat-square&logo=JavaScript&logoColor=f0db4f" height="24" />&nbsp
         <img src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=Sass&logoColor=ebebeb" height="24" />&nbsp
         <img src="https://img.shields.io/badge/Firebase-049ae6?style=flat-square&logo=Firebase&logoColor=ffca28" height="24" />&nbsp
         <img src="https://img.shields.io/badge/Navigo%20Router-47A248?style=flat-square&logo=Navigo&logoColor=ebebeb" height="24" />&nbsp
-        <br>
         <br>
         <br>
         <br>

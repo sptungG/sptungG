@@ -69,7 +69,7 @@
     <span>Links:</span>&nbsp;
     <a href="https://github.com/sptungG/demo-email-templates" target="_blank">Repo</a>
   </div>
-   <h4>Debit note - HTML template for sending mail <br>&nbsp;</h4>
+   <h4>Debit note - HTML template for sending mail <br>____</h4>
    <div align="left">   
     <img src="https://img.shields.io/badge/HTML-f06529?style=flat-square&logo=HTML5&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Maizzle-764abc?style=flat-square&logo=protonmail&logoColor=ebebeb" height="24" />&nbsp

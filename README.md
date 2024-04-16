@@ -32,7 +32,7 @@
   <td>
   </td>
  </tr>
-    <tr>
+  <tr>
   <td>
      <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713276774/_demo/yootek/be52dee9-3bc1-4eff-9c93-8a22ae9bf42a.png">
   </td>
@@ -69,7 +69,7 @@
     <span>Links:</span>&nbsp;
     <a href="https://github.com/sptungG/demo-email-templates" target="_blank">Repo</a>
   </div>
-   <h4>Debit note - HTML template for sending mail <br>____</h4>
+   <h4>Debit note - HTML template for sending mail <br>---</h4>
    <div align="left">   
     <img src="https://img.shields.io/badge/HTML-f06529?style=flat-square&logo=HTML5&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Maizzle-764abc?style=flat-square&logo=protonmail&logoColor=ebebeb" height="24" />&nbsp

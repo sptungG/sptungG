@@ -115,8 +115,9 @@
        <div align="left">        
         <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />&nbsp
         <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux&logoColor=ebebeb" height="24" />&nbsp
+        <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=ebebeb" height="24" />&nbsp
+        <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=ebebeb" height="24" />&nbsp
         <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=ebebeb" height="24" />&nbsp
-        <img src="https://img.shields.io/badge/Ant%20Design-ebebeb?style=flat-square&logo=AntDesign&logoColor=0170FE" height="24" />&nbsp
         <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=Stripe&logoColor=ebebeb" height="24" />&nbsp
         <img src="https://img.shields.io/badge/Firebase-049ae6?style=flat-square&logo=Firebase&logoColor=ffca28" height="24" />&nbsp
         <img src="https://img.shields.io/badge/Cloudinary-ebebeb?style=flat-square&logo=Cloudinary&logoColor=0170FE" height="24" />&nbsp

@@ -3,6 +3,38 @@
 <p align="center">- 🔭 I’m working as <b>Fullstack Developer</b>.<br>- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22">  Engineer of Information Technology, <a href="https://soict.hust.edu.vn/gioi-thieu">HUST, Hanoi, Vietnam</a>, 2019-2023<br>- ⚡ In my free time I enjoy reading books on a variety of topics, running & working out, ...</p>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sptungG&theme=react&hide=issues&count_private=true" />
+   <br/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsptungG%2Fhit-counter&count_bg=%2357DBDA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits+%F0%9F%91%8B&edge_flat=false"/>
+</div>
+<h2 align="center">👀 What am I focused on... 👀</h1>
+
+<h4 align="center">New Stack & To learn more ✏</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React%20Native-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />
+</div>
+
+<div align="center"> 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=ebebeb" height="24" />&nbsp
+<!--   <img src="https://img.shields.io/badge/Nest.js-e02342?style=flat-square&logo=NestJS&logoColor=ebebeb" height="24" />&nbsp -->
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=ebebeb" height="24" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ebebeb" height="24" />&nbsp
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
  <table>
   <tr>
    <td>

@@ -56,7 +56,7 @@
   <tr>
   <td>
     <a href="https://yoolife.vn" target="_blank">
-     <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713258745/_demo/yootek/194e4c58-32c4-4884-8644-765fc8aa2e1d.png">
+     <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713270575/_demo/yootek/b181bc22-de2e-4e80-959d-8c8976a83f0a.png">
     </a>
   </td>
   <td>
@@ -125,9 +125,9 @@
       </div>
       </td>
       <td>
-      <h4>Fairy Tales</h4>
+      <h4>Fairy Tales Reader</h4>
       <div align="left">
-        <img src="https://img.shields.io/badge/Javascript-323330?style=flat-square&logo=JavaScript&logoColor=f0db4f" height="24" />&nbsp
+        <img src="https://img.shields.io/badge/Vanilla%20Javascript-323330?style=flat-square&logo=JavaScript&logoColor=f0db4f" height="24" />&nbsp
         <img src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=Sass&logoColor=ebebeb" height="24" />&nbsp
         <img src="https://img.shields.io/badge/Firebase-049ae6?style=flat-square&logo=Firebase&logoColor=ffca28" height="24" />&nbsp
         <img src="https://img.shields.io/badge/Navigo%20Router-47A248?style=flat-square&logo=Navigo&logoColor=ebebeb" height="24" />&nbsp

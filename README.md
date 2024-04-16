@@ -1,5 +1,5 @@
-<div align="center" style="width: 100%;">
-  <img src="main.svg" style="width: 100%;" alt="Click to see the source">
+<div align="center" style="width:100%;height:100px">
+  <img src="main.svg" style="width:100%;height:100%" alt="Click to see the source">
 </div>
 
 <h1 align="center">I'm Tung! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>

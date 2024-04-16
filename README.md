@@ -68,7 +68,6 @@
     <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?style=flat-square&logo=Tailwind%20CSS&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Inline%20CSS-1572b6?style=flat-square&logo=CSS3&logoColor=ebebeb" height="24" />&nbsp
    </div>
-   <br>
   </td>
  </tr>
   <tr>

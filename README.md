@@ -12,7 +12,7 @@
   </td>
   <td>
     <a href="https://shop.yoolife.vn" target="_blank">
-      <img style="height:300px" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713262335/_demo/yootek/02-imageonline.co-merged_pn03qq.png">
+      <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713262335/_demo/yootek/02-imageonline.co-merged_pn03qq.png">
     </a>
   </td>
  </tr>

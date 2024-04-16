@@ -6,6 +6,74 @@
  <table>
   <tr>
   <td>
+    <a href="https://vr360-omega.vercel.app/" target="_blank">
+     <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713274014/_demo/yootek/yoo360-02_p7cmq4.png">
+    </a>
+  </td>
+  <td>
+    <div style="width:100%"></div>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <h4>Yoo360 - Virtual tour to explore real places</h4>
+   <div align="left">   
+    <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=ebebeb" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=ebebeb" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/Emotion%20Styled-DB7093?style=flat-square&logo=emotion&logoColor=fff" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=fff" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/Zustand-000?style=flat-square&logo=lazarus&logoColor=fff" height="24" />&nbsp
+   </div>
+  </td>
+  <td>
+  </td>
+ </tr>
+    <tr>
+  <td>
+    <a href="https://ioc.yoolife.vn/" target="_blank">
+     <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713276774/_demo/yootek/be52dee9-3bc1-4eff-9c93-8a22ae9bf42a.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://github.com/sptungG/demo-email-templates" target="_blank">
+     <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713275870/_demo/yootek/email-temp-mer_mggvth.png">
+    </a>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <h4>YooIOC - Digital platform for building management and operations</h4>
+   <div align="left">   
+    <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=ebebeb" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=ebebeb" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=fff" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=fff" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/Firebase-049ae6?style=flat-square&logo=Firebase&logoColor=ffca28" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/SignalR-1572b6?style=flat-square&logo=Microsoft&logoColor=ebebeb" height="24" />&nbsp
+   </div>
+    <div align="left">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=ebebeb" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=ebebeb" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ebebeb" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ebebeb" height="24" />
+  </div>
+  </td>
+  <td>
+   <h4>Debit note - HTML template for sending mail</h4>
+   <div align="left">   
+    <img src="https://img.shields.io/badge/HTML-f06529?style=flat-square&logo=HTML5&logoColor=ebebeb" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/Maizzle-764abc?style=flat-square&logo=protonmail&logoColor=ebebeb" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?style=flat-square&logo=Tailwind%20CSS&logoColor=ebebeb" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/Inline%20CSS-1572b6?style=flat-square&logo=CSS3&logoColor=ebebeb" height="24" />&nbsp
+   </div>
+   <br>
+   <br>
+  </td>
+ </tr>
+  <tr>
+  <td>
     <a href="https://yoolife.vn" target="_blank">
      <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713260559/_demo/yootek/06e5d686-76d1-4ee8-97ee-80515463612b.png">
     </a>
@@ -73,7 +141,7 @@
   <div align="left">
     <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />&nbsp
-    <img src="https://img.shields.io/badge/Tailwind CSS-38b2ac?style=flat-square&logo=Tailwind%20CSS&logoColor=ebebeb" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?style=flat-square&logo=Tailwind%20CSS&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Framer%20Motion-black?style=flat-square&logo=Framer&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Swiper-2496ED?style=flat-square&logo=Swiper&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ebebeb" height="24" />
@@ -85,7 +153,7 @@
     <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=fff" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=fff" height="24" />&nbsp
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff" height="24" />&nbsp
-    <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=ebebeb" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=CSS3&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Swiper-2496ED?style=flat-square&logo=Swiper&logoColor=ebebeb" height="24" />
     <br>
     <br>
@@ -113,7 +181,7 @@
       <td>
       <h4>Set-Up Store - E-commerce project on desk setups, optimizing workspace</h4>
        <div align="left">        
-        <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />&nbsp
+        <img src="https://img.shields.io/badge/CRA-09D3AC?style=flat-square&logo=createreactapp&logoColor=ebebeb" height="24" />&nbsp
         <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux&logoColor=ebebeb" height="24" />&nbsp
         <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=ebebeb" height="24" />&nbsp
         <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=ebebeb" height="24" />&nbsp

@@ -6,9 +6,7 @@
  <table>
   <tr>
   <td>
-    <a href="https://vr360-omega.vercel.app/" target="_blank">
      <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713274014/_demo/yootek/yoo360-02_p7cmq4.png">
-    </a>
   </td>
   <td>
     <div style="width:100%"></div>
@@ -16,6 +14,11 @@
  </tr>
  <tr>
   <td>
+   <div align="left">
+    <span>Links:</span>&nbsp;
+    <a href="https://vr360-omega.vercel.app/" target="_blank">Web</a>&nbsp;
+    <a href="https://github.com/sptungG/vr360" target="_blank">Repo</a>
+  </div>
   <h4>Yoo360 - Virtual tour to explore real places</h4>
    <div align="left">   
     <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=ebebeb" height="24" />&nbsp
@@ -31,18 +34,19 @@
  </tr>
     <tr>
   <td>
-    <a href="https://ioc.yoolife.vn/" target="_blank">
      <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713276774/_demo/yootek/be52dee9-3bc1-4eff-9c93-8a22ae9bf42a.png">
-    </a>
   </td>
   <td>
-    <a href="https://github.com/sptungG/demo-email-templates" target="_blank">
      <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713275870/_demo/yootek/email-temp-mer_mggvth.png">
-    </a>
   </td>
  </tr>
  <tr>
   <td>
+   <div align="left">
+    <span>Links:</span>&nbsp;
+    <a href="https://ioc.yoolife.vn/" target="_blank">Web</a>&nbsp;
+    <a href="https://yootek.vn/san-pham/yooioc/" target="_blank">Brief</a>
+  </div>
   <h4>YooIOC - Digital platform for building management and operations</h4>
    <div align="left">   
     <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=ebebeb" height="24" />&nbsp
@@ -61,6 +65,11 @@
   </div>
   </td>
   <td>
+   <div align="left">
+    <span>Links:</span>&nbsp;
+    <a href="https://github.com/sptungG/demo-email-templates" target="_blank">Repo</a>
+  </div>
+   <br>
    <h4>Debit note - HTML template for sending mail</h4>
    <div align="left">   
     <img src="https://img.shields.io/badge/HTML-f06529?style=flat-square&logo=HTML5&logoColor=ebebeb" height="24" />&nbsp
@@ -68,23 +77,26 @@
     <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?style=flat-square&logo=Tailwind%20CSS&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Inline%20CSS-1572b6?style=flat-square&logo=CSS3&logoColor=ebebeb" height="24" />&nbsp
    </div>
+   <br>
+   <br>
   </td>
  </tr>
   <tr>
   <td>
-    <a href="https://yoolife.vn" target="_blank">
      <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713260559/_demo/yootek/06e5d686-76d1-4ee8-97ee-80515463612b.png">
-    </a>
   </td>
   <td>
-    <a href="https://shop.yoolife.vn" target="_blank">
-      <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713262335/_demo/yootek/02-imageonline.co-merged_pn03qq.png">
-    </a>
+     <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713262335/_demo/yootek/02-imageonline.co-merged_pn03qq.png">
   </td>
  </tr>
  <tr>
   <td>
-  <h4>YooSeller - Management and sales platform</h4>
+   <div align="left">
+    <span>Links:</span>&nbsp;
+    <a href="https://seller.yoolife.vn/" target="_blank">Web</a>&nbsp;
+    <a href="https://yootek.vn/san-pham/yooseller/" target="_blank">Brief</a>
+  </div>
+  <h4>YooSeller - A comprehensive digital transformation solution for sellers</h4>
    <div align="left">   
     <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />&nbsp
@@ -102,6 +114,11 @@
   </div>
   </td>
   <td>
+   <div align="left">
+    <span>Links:</span>&nbsp;
+    <a href="https://shop.yoolife.vn/" target="_blank">Web</a>&nbsp;
+    <a href="https://github.com/sptungG/demo-yoolife-shop" target="_blank">Repo</a>
+  </div>
   <h4>YooLife Shop - providing customers with an easy, secure and fast online shopping experience</h4>
    <div align="left">   
     <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=ebebeb" height="24" />&nbsp
@@ -122,18 +139,19 @@
  </tr>
   <tr>
   <td>
-    <a href="https://yoolife.vn" target="_blank">
      <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713270575/_demo/yootek/b181bc22-de2e-4e80-959d-8c8976a83f0a.png">
-    </a>
   </td>
   <td>
-    <a href="https://yootek.vn" target="_blank">
-      <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713259138/_demo/yootek/5665e2e1-eba3-4207-936b-21e69f23fb8a.png">
-    </a>
+     <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713259138/_demo/yootek/5665e2e1-eba3-4207-936b-21e69f23fb8a.png">
   </td>
  </tr>
-    <tr>
+ <tr>
   <td>
+   <div align="left">
+    <span>Links:</span>&nbsp;
+    <a href="https://yoolife.vn/" target="_blank">Web</a>&nbsp;
+    <a href="https://github.com/sptungG/demo-yoolife-landing/" target="_blank">Repo</a>
+  </div>
   <h4>Yoolife - Landing Page</h4>
   <div align="left">
     <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=ebebeb" height="24" />&nbsp
@@ -145,6 +163,10 @@
   </div>
   </td>
   <td>
+   <div align="left">
+    <span>Links:</span>&nbsp;
+    <a href="https://yootek.vn" target="_blank">Web</a>&nbsp;
+  </div>
   <h4>Yootek - Company Website</h4>
   <div align="left">
     <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=fff" height="24" />&nbsp
@@ -153,6 +175,7 @@
     <img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=CSS3&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Swiper-2496ED?style=flat-square&logo=Swiper&logoColor=ebebeb" height="24" />
   </div>
+   <br>
   </td>
  </tr>
 </table>

@@ -43,7 +43,7 @@
         display: flex;
         width: calc(250px * 14);
       }
-      .slider .slide {
+      .slider img {
         height: 100px;
         width: 250px;
       }
@@ -57,50 +57,11 @@
       }
     </style>
   <div class="slider">
-	<div class="slide-track">
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
+		<div class="slide-track">
+			<img src="https://img.shields.io/badge/Javascript-323330?style=flat-square&logo=JavaScript&logoColor=f0db4f" height="100" />
+			<img src="https://img.shields.io/badge/Java-306998?style=flat-square&logo=OpenJDK&logoColor=ffffff" height="100" />
+			<img src="https://img.shields.io/badge/C++-ebebeb?style=flat-square&logo=c%2B%2B&logoColor=608cc1" height="100" />
 		</div>
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
-		</div>
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
-		</div>
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
-		</div>
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
-		</div>
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt="" />
-		</div>
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
-		</div>
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
-		</div>
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
-		</div>
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
-		</div>
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
-		</div>
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
-		</div>
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt="" />
-		</div>
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
-		</div>
-	</div>
   </div>
   </div>
   </foreignObject>

@@ -22,9 +22,9 @@
   <div align="left">
     <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Emotion%20Styled-DB7093?style=flat-square&logo=emotion&logoColor=fff" height="24" />&nbsp
-    <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Firebase-049ae6?style=flat-square&logo=Firebase&logoColor=ffca28" height="24" />&nbsp
     <img src="https://img.shields.io/badge/SignalR-1572b6?style=flat-square&logo=Microsoft&logoColor=ebebeb" height="24" />&nbsp
     <br>
@@ -39,9 +39,9 @@
   <div align="left">
     <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />&nbsp
+    <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/react%20aria%20components-F00?style=flat-square&logo=adobe&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Tailwind CSS-38b2ac?style=flat-square&logo=Tailwind%20CSS&logoColor=ebebeb" height="24" />&nbsp
-    <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Firebase-049ae6?style=flat-square&logo=Firebase&logoColor=ffca28" height="24" />
     <img src="https://img.shields.io/badge/SignalR-1572b6?style=flat-square&logo=Microsoft&logoColor=ebebeb" height="24" />&nbsp
     <br>

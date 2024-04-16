@@ -70,14 +70,13 @@
     <a href="https://github.com/sptungG/demo-email-templates" target="_blank">Repo</a>
   </div>
    <br>
-   <h4>Debit note - HTML template for sending mail</h4>
+   <h4>Debit note - HTML template for sending mail <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
    <div align="left">   
     <img src="https://img.shields.io/badge/HTML-f06529?style=flat-square&logo=HTML5&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Maizzle-764abc?style=flat-square&logo=protonmail&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?style=flat-square&logo=Tailwind%20CSS&logoColor=ebebeb" height="24" />&nbsp
     <img src="https://img.shields.io/badge/Inline%20CSS-1572b6?style=flat-square&logo=CSS3&logoColor=ebebeb" height="24" />&nbsp
    </div>
-   <br>
    <br>
   </td>
  </tr>

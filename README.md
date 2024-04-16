@@ -111,7 +111,7 @@
      </tr>
      <tr>
       <td>
-      <h4>Set-Up Store</h4>
+      <h4>Set-Up Store - E-commerce project on desk setups, optimizing workspace</h4>
        <div align="left">        
         <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />&nbsp
         <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux&logoColor=ebebeb" height="24" />&nbsp
@@ -129,7 +129,7 @@
       </div>
       </td>
       <td>
-      <h4>Fairy Tales Reader</h4>
+      <h4>Fairy Tales Reader - Story reader with listening and reading like a real book</h4>
       <div align="left">
         <img src="https://img.shields.io/badge/Vanilla%20Javascript-323330?style=flat-square&logo=JavaScript&logoColor=f0db4f" height="24" />&nbsp
         <img src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=Sass&logoColor=ebebeb" height="24" />&nbsp

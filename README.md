@@ -274,7 +274,7 @@
          <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713335908/_demo/setupstore-v2/0cf54e35-19e8-4e3f-bb0f-44288804d46e.png">
       </td>
       <td>
-         <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713257298/_demo/fairy-story/20b45a8d-1b8c-4ee4-a6e2-5edacbfa0b10.png">
+         <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713336383/_demo/fairy-story/24c30d7b-386b-4ca5-88db-7ea908c1aeba.png">
       </td>
      </tr>
      <tr>

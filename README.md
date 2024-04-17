@@ -73,7 +73,8 @@
   <td>
    <div align="left">
     <span>Links:</span>&nbsp;
-    <a href="https://vr360-omega.vercel.app/" target="_blank">Web</a>&nbsp;
+    <a href="https://vr360-omega.vercel.app/" target="_blank">Web:Rooms</a>&nbsp;
+    <a href="https://vr360-dwx2oxopw-sptungg.vercel.app/" target="_blank">Web:FnB</a>&nbsp;
     <a href="https://github.com/sptungG/vr360" target="_blank">Repo</a>
   </div>
   <h4>Yoo360 - Virtual tour to explore real places <br>____ </h4>

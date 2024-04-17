@@ -127,7 +127,7 @@
   <td>
    <div align="left">
     <span>Links:</span>&nbsp;
-    <a href="https://demo-email-templates.vercel.app/" target="_blank">Web</a>
+    <a href="https://demo-email-templates.vercel.app/" target="_blank">Web</a>&nbsp;
     <a href="https://github.com/sptungG/demo-email-templates" target="_blank">Repo</a>
   </div>
    <h4>Debit note - HTML template for mail <br>&nbsp;&nbsp;&nbsp; </h4>

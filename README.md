@@ -3,8 +3,8 @@
 <p align="center">- 🔭 I’m working as <b>Fullstack Developer</b>.<br>- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22">  Engineer of Information Technology, <a href="https://soict.hust.edu.vn/gioi-thieu">HUST, Hanoi, Vietnam</a>, 2019-2023<br>- ⚡ In my free time I enjoy reading books on a variety of topics, running & working out, ...</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sptungG&theme=react&hide=issues&count_private=true" />
-   <br/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=sptungG&theme=react&hide=issues&count_private=true" /> -->
+<!--    <br/> -->
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsptungG%2Fhit-counter&count_bg=%2357DBDA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits+%F0%9F%91%8B&edge_flat=false"/>
 </div>
 <h2 align="center">👀 What am I focused on... 👀</h1>

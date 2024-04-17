@@ -143,7 +143,7 @@
  </tr>
   <tr>
   <td>
-     <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713260559/_demo/yootek/06e5d686-76d1-4ee8-97ee-80515463612b.png">
+     <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713329153/_demo/yootek/6697ed6a-c52d-4151-abd3-2351f6356bd3.png">
   </td>
   <td>
      <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713262335/_demo/yootek/02-imageonline.co-merged_pn03qq.png">

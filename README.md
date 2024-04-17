@@ -271,7 +271,7 @@
    </tr>
       <tr>
       <td>
-         <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713255300/_demo/setupstore-v2/429a918f-9e93-4f8f-8995-7bdaf9921c5e.png">
+         <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713330853/_demo/setupstore-v2/04eb7241-15f2-4231-8adf-8da009d4b2e4.png">
       </td>
       <td>
          <img style="width:100%" alt="image" src="https://res.cloudinary.com/ngoviettung154/image/upload/v1713257298/_demo/fairy-story/20b45a8d-1b8c-4ee4-a6e2-5edacbfa0b10.png">

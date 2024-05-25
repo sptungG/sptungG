@@ -1,6 +1,6 @@
 <h1 align="center">I'm Tung! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 
-<p align="center">- 🔭 I’m working as <b>Fullstack Developer</b>.<br>- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22">  Engineer of Information Technology, <a href="https://soict.hust.edu.vn/gioi-thieu">HUST, Hanoi, Vietnam</a>, 2019-2023<br>- ⚡ In my free time I enjoy reading books on a variety of topics, running & working out, ...</p>
+<p align="center">- 🔭 I’m working as <b>Fullstack Developer</b> (Reactjs, Nodejs, SpringBoot).<br>- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22">  Engineer of Information Technology, <a href="https://soict.hust.edu.vn/gioi-thieu">HUST, Hanoi, Vietnam</a>, 2019-2023<br>- ⚡ In my free time I enjoy reading books on a variety of topics, running & working out, ...</p>
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=sptungG&theme=react&hide=issues&count_private=true" /> -->

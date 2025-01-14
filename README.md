@@ -154,7 +154,7 @@
   <td>
    <div align="left">
     <span>Links:</span>&nbsp;
-    <a href="https://seller.yoolife.vn/" target="_blank">Web</a>&nbsp;
+    <a href="https://demo-yooseller.vercel.app/" target="_blank">Web</a>&nbsp;
     <a href="https://yootek.vn/san-pham/yooseller/" target="_blank">Brief</a>
   </div>
   <h4>YooSeller - A comprehensive digital transformation solution for sellers</h4>

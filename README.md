@@ -48,7 +48,7 @@
  <tr>
   <td>
     <div align="left">
-    <span>Links:</span>&nbsp;
+    <!-- <span>Links:</span>&nbsp; -->
     <!-- <a href="https://pipcar.vn" target="_blank">Web:Partner</a>&nbsp; -->
     <!-- <a href="https://adm.pipcar.vn" target="_blank">Web:Admin</a>&nbsp; -->
     <!-- <a href="https://apps.apple.com/vn/app/pipcar/id6449618159?l=vi" target="_blank">App</a> -->
